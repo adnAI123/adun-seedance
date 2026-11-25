@@ -1,0 +1,15 @@
+{
+  "name": "adun-seedance",
+  "owner": {
+    "name": "阿墩AI"
+  },
+  "description": "阿墩AI 的 Seedance 视频提示词导演工序。",
+  "plugins": [
+    {
+      "name": "adun-seedance",
+      "source": "./",
+      "description": "阿墩AI 出品：即梦 Seedance 2.5 视频提示词的导演工序（V3）。",
+      "version": "0.3.0"
+    }
+  ]
+}

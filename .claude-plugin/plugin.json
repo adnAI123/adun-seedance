@@ -1,0 +1,19 @@
+{
+  "name": "adun-seedance",
+  "version": "0.3.0",
+  "description": "阿墩AI 出品：即梦 Seedance 2.5 视频提示词的导演工序（V3）。先出导演设计，方向未定时三位导演各出一版构想；你认可后再落笔成四块纯文本提示词。",
+  "author": {
+    "name": "阿墩AI"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "seedance",
+    "即梦",
+    "视频提示词",
+    "分镜",
+    "导演",
+    "AI短剧",
+    "漫剧",
+    "打斗"
+  ]
+}
