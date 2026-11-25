@@ -3,13 +3,13 @@
   "owner": {
     "name": "阿墩AI"
   },
-  "description": "阿墩AI 的 Seedance 视频提示词导演工序。",
+  "description": "阿墩AI 的 AI 短剧导演 Skill。",
   "plugins": [
     {
       "name": "adun-seedance",
       "source": "./",
-      "description": "阿墩AI 出品：即梦 Seedance 2.5 视频提示词的导演工序（V3）。",
-      "version": "0.3.0"
+      "description": "AI 短剧的导演 Skill：先当导演把戏想透，再写成提示词。支持全能参考的视频模型都能用，附 77 篇破亿正片的提示词原稿。",
+      "version": "0.3.1"
     }
   ]
 }
